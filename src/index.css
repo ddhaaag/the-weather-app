@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  min-height: 10vh;
+  background-color: #f4f4f4;
+  text-align: center;
+}
